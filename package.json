@@ -1,0 +1,21 @@
+{
+  "name": "practice-2",
+  "version": "1.0.0",
+  "description": "Node js practice",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "practice"
+  ],
+  "author": "Bilal Kashif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "nodemon": "^3.1.4"
+  }
+}
