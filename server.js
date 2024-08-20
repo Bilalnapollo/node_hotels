@@ -20,6 +20,8 @@ app.use(bodyParser.json());
 
 // })
 
+// comment added for testing purposes
+
 app.get("/", (req, res) => {
   res.send("Welcome to our Hotel");
 });
